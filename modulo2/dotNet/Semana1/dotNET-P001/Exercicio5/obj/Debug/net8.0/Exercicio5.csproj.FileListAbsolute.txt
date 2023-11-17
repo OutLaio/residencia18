@@ -1,0 +1,15 @@
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\bin\Debug\net8.0\Exercicio5.exe
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\bin\Debug\net8.0\Exercicio5.deps.json
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\bin\Debug\net8.0\Exercicio5.runtimeconfig.json
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\bin\Debug\net8.0\Exercicio5.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\bin\Debug\net8.0\Exercicio5.pdb
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\Exercicio5.AssemblyInfoInputs.cache
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\Exercicio5.AssemblyInfo.cs
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\Exercicio5.csproj.CoreCompileInputs.cache
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\Exercicio5.sourcelink.json
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\Exercicio5.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\refint\Exercicio5.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\Exercicio5.pdb
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\Exercicio5.genruntimeconfig.cache
+E:\repositorios\resitic18\modulo2\dotNet\Semana1\dotNET-P001\Exercicio5\obj\Debug\net8.0\ref\Exercicio5.dll
