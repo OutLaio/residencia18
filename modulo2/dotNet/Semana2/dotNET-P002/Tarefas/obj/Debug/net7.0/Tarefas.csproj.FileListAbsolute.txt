@@ -1,0 +1,15 @@
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/bin/Debug/net7.0/Tarefas
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/bin/Debug/net7.0/Tarefas.deps.json
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/bin/Debug/net7.0/Tarefas.runtimeconfig.json
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/bin/Debug/net7.0/Tarefas.dll
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/bin/Debug/net7.0/Tarefas.pdb
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.csproj.AssemblyReference.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.AssemblyInfoInputs.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.AssemblyInfo.cs
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.csproj.CoreCompileInputs.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.dll
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/refint/Tarefas.dll
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.pdb
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.genruntimeconfig.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/ref/Tarefas.dll

@@ -1,0 +1,15 @@
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/bin/Debug/net7.0/teste
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/bin/Debug/net7.0/teste.deps.json
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/bin/Debug/net7.0/teste.runtimeconfig.json
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/bin/Debug/net7.0/teste.dll
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/bin/Debug/net7.0/teste.pdb
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/teste.csproj.AssemblyReference.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/teste.AssemblyInfoInputs.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/teste.AssemblyInfo.cs
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/teste.csproj.CoreCompileInputs.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/teste.dll
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/refint/teste.dll
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/teste.pdb
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/teste.genruntimeconfig.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/teste/obj/Debug/net7.0/ref/teste.dll
