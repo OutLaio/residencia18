@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "D1IyIUsSeh872gOJDfAj+4jgj+bCXGLw0sWvyX5plTUsE1TYTfp3nABEpg6G9KzQpJKz5DebL0QW/Y6CpGlaqg==",
+  "dgSpecHash": "Axh3zlO7VxJvw+7Zirr4BASt8yeKqzHDs80XcJgSqqZXMEwFx0FDnbeGDABQRFnqv4zc64R3tXp4//LoQheEiA==",
   "success": true,
-  "projectFilePath": "/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/Tarefas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\repositorios\\resitic18\\modulo2\\dotNet\\Semana2\\dotNET-P002\\Tarefas\\Tarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\godof\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\godof\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\godof\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\godof\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

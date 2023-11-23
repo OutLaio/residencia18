@@ -13,3 +13,18 @@
 /home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.pdb
 /home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/Tarefas.genruntimeconfig.cache
 /home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana2/dotNET-P002/Tarefas/obj/Debug/net7.0/ref/Tarefas.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\bin\Debug\net7.0\Tarefas.exe
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\bin\Debug\net7.0\Tarefas.deps.json
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\bin\Debug\net7.0\Tarefas.runtimeconfig.json
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\bin\Debug\net7.0\Tarefas.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\bin\Debug\net7.0\Tarefas.pdb
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\Tarefas.AssemblyInfoInputs.cache
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\Tarefas.AssemblyInfo.cs
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\Tarefas.csproj.CoreCompileInputs.cache
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\Tarefas.sourcelink.json
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\Tarefas.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\refint\Tarefas.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\Tarefas.pdb
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\Tarefas.genruntimeconfig.cache
+E:\repositorios\resitic18\modulo2\dotNet\Semana2\dotNET-P002\Tarefas\obj\Debug\net7.0\ref\Tarefas.dll
