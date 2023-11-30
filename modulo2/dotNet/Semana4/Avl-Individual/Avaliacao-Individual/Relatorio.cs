@@ -57,6 +57,4 @@ public static class Relatorio{
         ExibirRelatorioPessoa($"Advogados aniversariantes do mês {mes}:", relatorio);
     }
 
-
-
 }

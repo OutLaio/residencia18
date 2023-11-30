@@ -1,0 +1,15 @@
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/bin/Debug/net7.0/Avaliacao-Individual
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/bin/Debug/net7.0/Avaliacao-Individual.deps.json
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/bin/Debug/net7.0/Avaliacao-Individual.runtimeconfig.json
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/bin/Debug/net7.0/Avaliacao-Individual.dll
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/bin/Debug/net7.0/Avaliacao-Individual.pdb
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/Avaliacao-Individual.csproj.AssemblyReference.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/Avaliacao-Individual.GeneratedMSBuildEditorConfig.editorconfig
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/Avaliacao-Individual.AssemblyInfoInputs.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/Avaliacao-Individual.AssemblyInfo.cs
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/Avaliacao-Individual.csproj.CoreCompileInputs.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/Avaliacao-Individual.dll
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/refint/Avaliacao-Individual.dll
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/Avaliacao-Individual.pdb
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/Avaliacao-Individual.genruntimeconfig.cache
+/home/laio-rodrigues/Área de trabalho/repositorios/resitic18/modulo2/dotNet/Semana4/Avl-Individual/Avaliacao-Individual/obj/Debug/net7.0/ref/Avaliacao-Individual.dll

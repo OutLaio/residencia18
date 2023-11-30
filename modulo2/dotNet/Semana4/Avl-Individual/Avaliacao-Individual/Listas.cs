@@ -20,7 +20,7 @@ public static class Lista{
 
     public static bool hasAdvogado(string cpf, string cna){
         List<Advogado> advogados = pessoas.OfType<Advogado>().ToList();
-        return advogados.Any(x => x.CPF.Equals(cpf, StringComparison.OrdinalIgnoreCase) || x.CNA.Equals(cna, StringComparison.OrdinalIgnoreCase));
+        return advogados.Any(x => x.CPF == cpf || x.CNA == cna);
     }
 
     public static void AdicionarCliente(string nome, string dtNasc, string cpf, string estadoCivil, string profissao){
