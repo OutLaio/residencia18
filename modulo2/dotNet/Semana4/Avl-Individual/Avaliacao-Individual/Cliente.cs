@@ -10,5 +10,6 @@ public class Cliente : Pessoa{
 
     public string EstadoCivil { get{return _estadoCivil;} set{ _estadoCivil = value;} }
 
-    public string Profissao { get{}}
+    public string Profissao { get{ return _profissao;} set{ _profissao = value;} }
+    
 }
