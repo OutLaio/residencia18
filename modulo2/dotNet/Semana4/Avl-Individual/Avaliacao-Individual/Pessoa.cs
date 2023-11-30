@@ -26,4 +26,8 @@ public abstract class Pessoa{
             return idade;
         }
     }
+
+    public static bool ValidaCPF(string cpf){
+        return cpf.Length == 11;
+    }
 }
