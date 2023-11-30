@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "H9Nqqs8BTJL+qiFpxfvGV3ByijvAqTfJaexk5MGJDEJdlUgiaGO1PitK5s1/ivZE5m9YsQzbBxrmmBiJ3MEz6g==",
+  "dgSpecHash": "aLdw3NPiQJlPbdg27wLRYwIsVtZZDS9P+Kx1winuqcQ0N1hlDLcdNQ+SDW8+/uzeJKN1IReOnjLXK5rieU15Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\06798167551\\Desktop\\repositorios\\resitic18\\modulo2\\dotNet\\Semana3\\dotNET-P003\\GerenciamentoEstoque\\GerenciamentoEstoque.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\repositorios\\resitic18\\modulo2\\dotNet\\Semana3\\dotNET-P003\\GerenciamentoEstoque\\GerenciamentoEstoque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\godof\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\godof\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\godof\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\godof\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

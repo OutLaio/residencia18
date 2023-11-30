@@ -1,0 +1,15 @@
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.exe
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.deps.json
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.runtimeconfig.json
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\bin\Debug\net7.0\GerenciamentoEstoque.pdb
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.AssemblyInfoInputs.cache
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.AssemblyInfo.cs
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.csproj.CoreCompileInputs.cache
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.sourcelink.json
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\refint\GerenciamentoEstoque.dll
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.pdb
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\GerenciamentoEstoque.genruntimeconfig.cache
+E:\repositorios\resitic18\modulo2\dotNet\Semana3\dotNET-P003\GerenciamentoEstoque\obj\Debug\net7.0\ref\GerenciamentoEstoque.dll
