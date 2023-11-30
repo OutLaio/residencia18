@@ -5,10 +5,8 @@ public abstract class Pessoa{
     private DateTime _dtNasc { get; }
     private string _cpf { get; } 
 
-    public Pessoa(string nome, string dtNasc, string cpf){
+    public Pessoa(string nome, DateTime dtNasc, string cpf){
         _nome = nome;
-        string[] dt = dtNasc.Split("/");
-        DateTime novaData = new DateTime(int.Parse(dt[0]), int.Parse(dt[1]), int.Parse(dt[2]) );
         _dtNasc = dtNasc;
         _cpf = cpf;
     }
@@ -28,6 +26,4 @@ public abstract class Pessoa{
             return idade;
         }
     }
-
-    
 }
