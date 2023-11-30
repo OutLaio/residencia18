@@ -1,6 +1,6 @@
 namespace Avaliacao;
-public static class ListaAdvogados{
-    public static List<Advogado> advogados = new List<Advogado>();
+public static class Lista{
+    public static List<Pessoa> pessoas = new List<Pessoa>();
 
     public static void AdicionarAdvogado(string nome, string dtNasc, string cpf, string cna){
         if(!Pessoa.ValidaCPF(cpf)){
@@ -14,18 +14,14 @@ public static class ListaAdvogados{
         }
 
         Advogado novo = new(nome, App.ConverterStringParaDateTime(dtNasc), cpf, cna);
-        advogados.Add(novo);
+        pessoas.Add(novo);
         Console.WriteLine("Advogado adicionado com sucesso!");
     }
 
     public static bool hasAdvogado(string cpf, string cna){
+        List<Advogado> advogados = pessoas.OfType<Advogado>().ToList();
         return advogados.Any(x => x.CPF.Equals(cpf, StringComparison.OrdinalIgnoreCase) || x.CNA.Equals(cna, StringComparison.OrdinalIgnoreCase));
     }
-
-}
-
-public static class ListaClientes{
-    public static List<Cliente> clientes = new List<Cliente>();
 
     public static void AdicionarCliente(string nome, string dtNasc, string cpf, string estadoCivil, string profissao){
         if(!Pessoa.ValidaCPF(cpf)){
@@ -39,11 +35,12 @@ public static class ListaClientes{
         }
 
         Cliente novo = new(nome, App.ConverterStringParaDateTime(dtNasc), cpf, estadoCivil, profissao);
-        clientes.Add(novo);
+        pessoas.Add(novo);
         Console.WriteLine("Cliente adicionado com sucesso!");
     }
 
     public static bool hasCliente(string cpf){
+        List<Cliente> clientes = pessoas.OfType<Cliente>().ToList();
         return clientes.Any(x => x.CPF.Equals(cpf, StringComparison.OrdinalIgnoreCase));
     }
 
