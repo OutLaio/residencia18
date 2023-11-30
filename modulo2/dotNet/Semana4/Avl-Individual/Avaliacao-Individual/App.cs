@@ -1,4 +1,3 @@
-using System;
 using System.Globalization;
 namespace Avaliacao;
 
@@ -7,7 +6,7 @@ public static class App{
 
     }
 
-    static DateTime ConverterStringParaDateTime(string dataString){
+    public static DateTime ConverterStringParaDateTime(string dataString){
         string formato = "dd/MM/yyyy";
 
         if (DateTime.TryParseExact(dataString, formato, CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime resultado)){
